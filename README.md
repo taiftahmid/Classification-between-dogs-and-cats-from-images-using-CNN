@@ -1,6 +1,6 @@
 # Classification between dogs and cats from images using CNN
 
-The dataset for this project can be downloaded from [here](https://www.superdatascience.com/machine-learning/)
+The dataset for this project can be downloaded from [here](http://www.superdatascience.com/wp-content/uploads/2017/03/Convolutional-Neural-Networks.zip)
 
 The dataset consists of 10,000 images of dogs and cats each. The neural network learns the features from the images and predicts for new images, whether the image is of a cat or a dog. 
 
